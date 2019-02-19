@@ -1,1 +1,5 @@
 p{color: red;text-align: left;font-size: 23px}
+b{font-size: 20px;font-family: 'Times New Roman', Times, serif}
+.header {height: 90px;width: 1200px;}
+.head-left{height: 90px;width: 700px;background: url("../img/name.PNG") no-repeat;float: left;}
+.head-right{height: 90px;width: 400px;background: url("../img/phone.PNG") no-repeat;float: left;}   
